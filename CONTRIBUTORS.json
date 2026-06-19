@@ -18,6 +18,13 @@
       "name": "Doe, John",
       "orcid": null,
       "source": "offline"
+    },
+    {
+      "author": false,
+      "github": null,
+      "name": "Smith, Jane",
+      "orcid": null,
+      "source": "offline"
     }
   ],
   "repo": "MorphoDepot/delete-repo-1234",
